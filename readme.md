@@ -11,3 +11,13 @@
 
 1. `export FLASK_APP=hello.py` set `FLASK_APP` env
 1. `flask hello.py` run application
+
+## others
+
+1. How to create `requirements.txt` in fresh project
+    
+    ```
+    . venv/bin/activate
+    pip3 freeze > requirements.txt
+    ```
+
