@@ -10,7 +10,7 @@
 ## Run
 
 1. `export FLASK_APP=hello.py` set `FLASK_APP` env
-1. `flask hello.py` run application
+1. `flask run` run application
 
 ## others
 
